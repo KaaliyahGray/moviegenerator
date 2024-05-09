@@ -4,17 +4,17 @@ const MovieRecommendations = [
     {
         title: "Memoirs of a Geisha",
         reasoning: "Cinematically a masterpiece I'll never get over it",
-        movieimg: "https://images.app.goo.gl/S9pJyESSJ7aGTbiP7"
+        movieimg: "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/memoirs-of-a-geisha-2005/Memoirs-of-Geisha-image.jpg"
     },
     {
         title: "Training Day",
         reasoning: "Denzel Washington as the villain?? Absolutely.",
-        movieimg: "https://images.app.goo.gl/BDpBKktEpreuZ9Ay5"
+        movieimg: "https://s.yimg.com/os/creatr-uploaded-images/2019-10/c4e73ed0-ec0d-11e9-93fd-d887586769f6"
     },
     {
         title: "Princess and the Frog",
         reasoning: "Disney's first black princess. Please, 12-year-old me was thriving.",
-        movieimg: "https://images.app.goo.gl/c1xPgsJA2B1ENyZB9"
+        movieimg: "https://lumiere-a.akamaihd.net/v1/images/pp_theprincessandthefrog_herobanner_mobile_20499_0ed6fa8d.jpeg?region=0,0,1024,768"
     }
 ];
 const movieSelect = document.getElementById('movie-select');
