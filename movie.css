@@ -48,3 +48,7 @@ h1 {
 #generate-btn:hover {
     background-color: #0056b3;
 }
+
+
+content: '\263F'; /* Unicode for Mercury symbol */
+content: '\2609'; /* Unicode for sun symbol */
